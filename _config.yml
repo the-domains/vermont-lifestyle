@@ -1,0 +1,28 @@
+name: Vermont Lifestyle
+favicon: null
+layout_spectrum: 0.8374866440426558
+typography_spectrum: 0.8045662965159863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5450965634081513
+  lightness: 0.18902853992767632
+  saturation: 0.2865658060181886
+  rhythmicContrast: 0.7298730546608567
+purpose: []
